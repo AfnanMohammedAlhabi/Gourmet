@@ -11,6 +11,7 @@
 		440D1BAC2952184C00EB5CB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440D1BAB2952184C00EB5CB5 /* ContentView.swift */; };
 		440D1BAE2952184E00EB5CB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 440D1BAD2952184E00EB5CB5 /* Assets.xcassets */; };
 		440D1BB12952184E00EB5CB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 440D1BB02952184E00EB5CB5 /* Preview Assets.xcassets */; };
+
 		C49E8F3C2952F1F500EE5E23 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F3B2952F1F500EE5E23 /* HomePage.swift */; };
 		C49E8F3E2952F21F00EE5E23 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F3D2952F21F00EE5E23 /* Card.swift */; };
 		C49E8F402952F23800EE5E23 /* BotRespones.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F3F2952F23800EE5E23 /* BotRespones.swift */; };
@@ -22,6 +23,13 @@
 		C49E8F4C2952F25D00EE5E23 /* TagList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F4B2952F25D00EE5E23 /* TagList.swift */; };
 		C49E8F4E2952F26200EE5E23 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F4D2952F26200EE5E23 /* SectionView.swift */; };
 		C49E8F502952F26900EE5E23 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49E8F4F2952F26900EE5E23 /* DetailView.swift */; };
+
+		53C47AD52952F201006DBC34 /* chefprot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C47AD42952F201006DBC34 /* chefprot.swift */; };
+		53C47AD72952F219006DBC34 /* rating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C47AD62952F219006DBC34 /* rating.swift */; };
+		53C47AD92952F224006DBC34 /* userreviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C47AD82952F224006DBC34 /* userreviews.swift */; };
+		53C47ADB2952F229006DBC34 /* Custmoized.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C47ADA2952F229006DBC34 /* Custmoized.swift */; };
+		53C47ADD2952F232006DBC34 /* Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C47ADC2952F232006DBC34 /* Picker.swift */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +38,7 @@
 		440D1BAB2952184C00EB5CB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		440D1BAD2952184E00EB5CB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		440D1BB02952184E00EB5CB5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+
 		C49E8F3B2952F1F500EE5E23 /* HomePage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomePage.swift; path = ../../../Documents/ChefApp/ChefApp/HomePage.swift; sourceTree = "<group>"; };
 		C49E8F3D2952F21F00EE5E23 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Card.swift; path = ../../../Documents/ChefApp/ChefApp/Card.swift; sourceTree = "<group>"; };
 		C49E8F3F2952F23800EE5E23 /* BotRespones.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BotRespones.swift; path = ../../../Documents/ChefApp/ChefApp/BotRespones.swift; sourceTree = "<group>"; };
@@ -40,7 +49,13 @@
 		C49E8F492952F25800EE5E23 /* TagButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TagButton.swift; path = ../../ChefApp/ChefApp/TagButton.swift; sourceTree = "<group>"; };
 		C49E8F4B2952F25D00EE5E23 /* TagList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TagList.swift; path = ../../ChefApp/ChefApp/TagList.swift; sourceTree = "<group>"; };
 		C49E8F4D2952F26200EE5E23 /* SectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SectionView.swift; path = ../../ChefApp/ChefApp/SectionView.swift; sourceTree = "<group>"; };
-		C49E8F4F2952F26900EE5E23 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailView.swift; path = ../../ChefApp/ChefApp/DetailView.swift; sourceTree = "<group>"; };
+
+		53C47AD42952F201006DBC34 /* chefprot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = chefprot.swift; path = ../../ChefApp/ChefApp/chefprot.swift; sourceTree = "<group>"; };
+		53C47AD62952F219006DBC34 /* rating.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = rating.swift; path = ../../ChefApp/ChefApp/rating.swift; sourceTree = "<group>"; };
+		53C47AD82952F224006DBC34 /* userreviews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = userreviews.swift; path = ../../ChefApp/ChefApp/userreviews.swift; sourceTree = "<group>"; };
+		53C47ADA2952F229006DBC34 /* Custmoized.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Custmoized.swift; path = ../../ChefApp/ChefApp/Custmoized.swift; sourceTree = "<group>"; };
+		53C47ADC2952F232006DBC34 /* Picker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Picker.swift; path = ../../ChefApp/ChefApp/Picker.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +90,7 @@
 			children = (
 				440D1BA92952184C00EB5CB5 /* GormutApp.swift */,
 				440D1BAB2952184C00EB5CB5 /* ContentView.swift */,
+
 				C49E8F3B2952F1F500EE5E23 /* HomePage.swift */,
 				C49E8F3D2952F21F00EE5E23 /* Card.swift */,
 				C49E8F3F2952F23800EE5E23 /* BotRespones.swift */,
@@ -86,6 +102,13 @@
 				C49E8F4B2952F25D00EE5E23 /* TagList.swift */,
 				C49E8F4D2952F26200EE5E23 /* SectionView.swift */,
 				C49E8F4F2952F26900EE5E23 /* DetailView.swift */,
+
+				53C47AD62952F219006DBC34 /* rating.swift */,
+				53C47AD82952F224006DBC34 /* userreviews.swift */,
+				53C47ADC2952F232006DBC34 /* Picker.swift */,
+				53C47ADA2952F229006DBC34 /* Custmoized.swift */,
+				53C47AD42952F201006DBC34 /* chefprot.swift */,
+
 				440D1BAD2952184E00EB5CB5 /* Assets.xcassets */,
 				440D1BAF2952184E00EB5CB5 /* Preview Content */,
 			);
@@ -170,6 +193,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53C47AD92952F224006DBC34 /* userreviews.swift in Sources */,
+				53C47AD72952F219006DBC34 /* rating.swift in Sources */,
+				53C47ADD2952F232006DBC34 /* Picker.swift in Sources */,
+				53C47ADB2952F229006DBC34 /* Custmoized.swift in Sources */,
+				53C47AD52952F201006DBC34 /* chefprot.swift in Sources */,
 				440D1BAC2952184C00EB5CB5 /* ContentView.swift in Sources */,
 				C49E8F482952F25100EE5E23 /* Header.swift in Sources */,
 				C49E8F4A2952F25800EE5E23 /* TagButton.swift in Sources */,
