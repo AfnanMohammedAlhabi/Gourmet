@@ -11,7 +11,7 @@ import SwiftUI
 struct GormutApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            chefprot()
         }
     }
 }
